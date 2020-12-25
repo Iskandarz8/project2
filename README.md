@@ -3,7 +3,7 @@
 <p>This idea came about due to change of climax and uncertain weather of difference places in every city. Afraid not that you are wont't be worry about the weather as this weather forecast will let you know the weather where ever you are. it is a simple application which is simple and easy to use regardless of age.  <p> 
   
 <h2>Getting Started</h2>
-<p>There are no setup or installation required for this application. Simply go to the following https://iskandarz8.github.io/project2/ to get started. You are abe to key in the places you want to check the current weather forecast</p>
+<p>There are no setup or installation required for this application. Simply go to the following <a href="https://iskandarz8.github.io/project2/">website</a> to get started. You are abe to key in the places you want to check the current weather forecast</p>
 
 <h2>UI/UX</h2>
 
